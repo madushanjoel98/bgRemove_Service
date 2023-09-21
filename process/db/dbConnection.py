@@ -7,7 +7,7 @@ class MYConnection:
             host="localhost",
             user="root",
             password="12345",
-            database="student"  # Replace with the name of your database
+            database="yourdb"  # Replace with the name of your database
         )
 
     def get_connection(self):
