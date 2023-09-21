@@ -19,5 +19,5 @@ class MYConnection:
 
 
 # Create an instance of the Connection class
-mysqlconnection = MYConnection().get_connection()
+#mysqlconnection = MYConnection().get_connection()
 # Check if the connection was successful
