@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 import bgremover
 import loginforms
 from db.tables import userTable
+#Hellos
 app = Flask(__name__)
 lio = loginforms.User()
 userTables = userTable.UserTable()
