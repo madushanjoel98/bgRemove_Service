@@ -10,3 +10,8 @@ This service allows users to upload binary-encoded images in BASE64 format and r
 ---
 
 Make sure to replace 'rgm' with the actual library name if it's different. This paragraph provides a brief overview, sets expectations regarding library updates, and guides users on essential steps before running the program.
+---
+Starting the Application
+<ul>
+  <li ><a href="process/app.py">Run the app,py</a></li>
+</ul>
