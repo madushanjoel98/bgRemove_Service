@@ -1,7 +1,5 @@
-# Background Removing Rest Service
-<h1>Flask RestService to Remove Background from image</h1>
+# Flask Background Removing Rest Service
 <img src="https://hotpot.ai/images/site/ai/background_remover/teaser.jpg" width="350px">
-Certainly! Here's a paragraph you can include in your README file:
 
 ---
 
