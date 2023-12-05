@@ -14,4 +14,14 @@ Make sure to replace 'rgm' with the actual library name if it's different. This 
 Starting the Application
 <ul>
   <li ><a href="process/app.py">Run the app,py</a></li>
+    <li> Run this end point on Post man http://127.0.0.1:5000/bas64remover </li>
 </ul>
+
+   ```javascript
+//Run this json body on POSTMAN 
+{"base": "your Base 64 text"}
+```
+
+
+
+ 
