@@ -10,6 +10,7 @@ This service allows users to upload binary-encoded images in BASE64 format and r
 
 Starting the Application
 <ul>
+    <li >Install   pip install rembg==2.0.28</a></li>
   <li ><a href="process/app.py">Run the app,py</a></li>
     <li> Run this end point on Post man http://127.0.0.1:5000/bas64remover </li>
 </ul>
